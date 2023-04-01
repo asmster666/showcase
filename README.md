@@ -1,7 +1,7 @@
 ### Hello everyone👋
 I am frontend developer from Russia
 
-- 😎 Working on interesting fullstack projects using NextJS and Typescript
+- 😎 Working on interesting fullstack projects using ReactJS and Typescript
 - ☘️ Learn React in depth
 - 👽 Personally interested at cyber security
 <br/>
